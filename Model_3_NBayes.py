@@ -2,7 +2,7 @@
 #  Model_3_NBayes.py
 #
 #  Wendy Slattery
-#  CAP 4601
+#  Coure: Artificial Intelligence
 #  12/2/20
 #  Final Project: Decision Tree and Perceptron Logical Regression
 #  applied to Breast Cancer data set from
