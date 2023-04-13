@@ -2,7 +2,7 @@
 #  Model_2_Prcpt_LogReg.py
 #
 #  Wendy Slattery
-#  CAP 4601
+#  Course: Artificial Intelligence
 #  12/2/20
 #  Final Project: Decision Tree and Perceptron Logical Regression
 #  applied to Breast Cancer data set from
